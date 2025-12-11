@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 TARGET_WAIT=1200 # 20 minutes
